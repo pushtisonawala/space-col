@@ -1,0 +1,22 @@
+# Ignore system files and directories
+.android/
+.cache/
+.config/
+.eclipse/
+.gradle/
+.vscode/
+NTUSER.*
+AppData/
+Contacts/
+Documents/
+Downloads/
+Music/
+Videos/
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore other unrelated directories
+../../../../*
+.env
